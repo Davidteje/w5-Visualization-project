@@ -32,6 +32,10 @@ Se pretende ofrecer al usuario un análisis visual del partido modelo:
 ![Image text](https://github.com/Davidteje/w5-Visualization-project/blob/main/img/Portada.PNG)
 
 - 5 DASHBOARDS que muestran los datos más relevantes de las diferentes categorías de juego en un partido.
+    - Events Summary
+    
+    ![Image text](https://github.com/Davidteje/w5-Visualization-project/blob/main/img/Portada.PNG)
+
     - In possession
     - Out of possession
     - Possession Contest
