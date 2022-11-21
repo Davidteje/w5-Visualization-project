@@ -1,5 +1,8 @@
 # w5-Visualization-project
 
+![Image text](https://github.com/Davidteje/w5-Visualization-project/blob/main/img/Map_events.PNG)
+
+
 ### PROJECT REQUIREMENTS: 
 - ETL process
 - A dasboard or presentation with a story display in several pages.
@@ -33,7 +36,7 @@ Creación de libro de trabajo en Tableau. Se pretende ofrecer al usuario un aná
 
 ![Image text](https://github.com/Davidteje/w5-Visualization-project/blob/main/img/Portada.PNG)
 
-- 5 DASHBOARDS que muestran los datos más relevantes de las diferentes categorías de juego en un partido.
+- 4 DASHBOARDS que muestran los datos más relevantes de las diferentes categorías de juego en un partido.
     - Events Summary
     
     ![Image text](https://github.com/Davidteje/w5-Visualization-project/blob/main/img/Events_summary.PNG)
@@ -51,7 +54,6 @@ Creación de libro de trabajo en Tableau. Se pretende ofrecer al usuario un aná
     ![Image text](https://github.com/Davidteje/w5-Visualization-project/blob/main/img/Events_PC.PNG)
     
     
-    - Se incluye una tabla de los eventos de distribución de juego que permiten un análisis detallado de los mismos mediante los filtros facilitados.
     
 - 4 MAP DASHBOARDS que muestran diferentes categorías de posicionamientos de los eventos registrados, gracias a las coordenadas de los eventos del data set del partido. Los mapas incluidos:
 
