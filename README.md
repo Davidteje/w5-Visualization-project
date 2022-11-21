@@ -61,17 +61,17 @@ Creación de libro de trabajo en Tableau. Se pretende ofrecer al usuario un aná
     
     - Average Position map
     
-    ![Image text](https://github.com/Davidteje/w5-Visualization-project/blob/main/img/Map_events.PNG)
+    ![Image text](https://github.com/Davidteje/w5-Visualization-project/blob/main/img/Map_avgpos.PNG)
     
     - Heat map
     
-    ![Image text](https://github.com/Davidteje/w5-Visualization-project/blob/main/img/Map_events.PNG)
+    ![Image text](https://github.com/Davidteje/w5-Visualization-project/blob/main/img/Map_heat.PNG)
     
     - Frame map.
     
-    ![Image text](https://github.com/Davidteje/w5-Visualization-project/blob/main/img/Map_events.PNG)
+    ![Image text](https://github.com/Davidteje/w5-Visualization-project/blob/main/img/Map_frame.PNG)
     
-En ellos se puede filtrar por jugador y tipo de evento para poder realizar análisis individual
+En ellos se puede filtrar por jugador y/o tipo de evento para permitir un mejor análisis.
 
     
 Link to Tableau Dashboard: [FIFA WORLD CUP 2022](https://public.tableau.com/app/profile/david.tejedor/viz/w5-Viz-Project-World_cup_2022/Historia1?publish=yes)
