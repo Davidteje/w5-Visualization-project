@@ -34,21 +34,44 @@ Se pretende ofrecer al usuario un análisis visual del partido modelo:
 - 5 DASHBOARDS que muestran los datos más relevantes de las diferentes categorías de juego en un partido.
     - Events Summary
     
-    ![Image text](https://github.com/Davidteje/w5-Visualization-project/blob/main/img/Portada.PNG)
+    ![Image text](https://github.com/Davidteje/w5-Visualization-project/blob/main/img/Events_summary.PNG)
 
     - In possession
+    
+    ![Image text](https://github.com/Davidteje/w5-Visualization-project/blob/main/img/Events_IP.PNG)
+    
     - Out of possession
+    
+    ![Image text](https://github.com/Davidteje/w5-Visualization-project/blob/main/img/Events_OP.PNG)
+    
     - Possession Contest
     
+    ![Image text](https://github.com/Davidteje/w5-Visualization-project/blob/main/img/Events_PC.PNG)
     
     
     - Se incluye una tabla de los eventos de distribución de juego que permiten un análisis detallado de los mismos mediante los filtros facilitados.
     
 - 4 MAP DASHBOARDS que muestran diferentes categorías de posicionamientos de los eventos registrados, gracias a las coordenadas de los eventos del data set del partido. Los mapas incluidos:
-    - Eventsmap
-    - Average Position map
-    - Heatmap
-    - Framemap.
-En todos ellos se puede filtrar por jugador y tipo de evento para poder realizar análisis individual
+
+    - Events map
     
-Link a Tableau.
+    ![Image text](https://github.com/Davidteje/w5-Visualization-project/blob/main/img/Map_events.PNG)
+    
+    - Average Position map
+    
+    ![Image text](https://github.com/Davidteje/w5-Visualization-project/blob/main/img/Map_events.PNG)
+    
+    - Heat map
+    
+    ![Image text](https://github.com/Davidteje/w5-Visualization-project/blob/main/img/Map_events.PNG)
+    
+    - Frame map.
+    
+    ![Image text](https://github.com/Davidteje/w5-Visualization-project/blob/main/img/Map_events.PNG)
+    
+En ellos se puede filtrar por jugador y tipo de evento para poder realizar análisis individual
+
+    
+Si quieres ver este libro de trabajo en Tableau... [Tableau](https://public.tableau.com/app/profile/david.tejedor/viz/w5-Viz-Project-World_cup_2022/Historia1?publish=yes)
+
+
