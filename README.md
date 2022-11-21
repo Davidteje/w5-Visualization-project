@@ -76,6 +76,6 @@ Creación de libro de trabajo en Tableau. Se pretende ofrecer al usuario un aná
 En ellos se puede filtrar por jugador y/o tipo de evento para permitir un mejor análisis.
 
     
-Link to Tableau Dashboard: [FIFA WORLD CUP 2022](https://public.tableau.com/app/profile/david.tejedor/viz/w5-Viz-Project-World_cup_2022/Historia1?publish=yes)
+Link to Tableau Dashboard: [w5-Viz-Project-World_cup_2022](https://public.tableau.com/app/profile/david.tejedor/viz/w5-Viz-Project-World_cup_2022/Historia1?publish=yes)
 
 
