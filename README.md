@@ -1,15 +1,15 @@
 # w5-Visualization-project
 
-PROJECT REQUIREMENTS: 
+### PROJECT REQUIREMENTS: 
 - ETL process
 - A dasboard or presentation with a story display in several pages.
 
 
-PROJECT TOPIC: 
+### PROJECT TOPIC: 
 FIFA World Cup 2022
 
 
-WORK PROCESS:
+### WORK PROCESS:
 
 1) ETL
 Proceso ETL de datos del mundial de fútbol que comienza el 20/11/2022:
@@ -18,14 +18,16 @@ Proceso ETL de datos del mundial de fútbol que comienza el 20/11/2022:
 - Partidos del torneo
 - Partido modelo
 
+A través de Python y Pandas limpieza de datos y preparación de dataframes.
+
 2) CREACIÓN DE DB:
-Tras la limpieza y preparación de tablas, creación de DB en Python-SQL:
+Creación de DB en Python-SQL:
 
 ![Image text](https://github.com/Davidteje/w5-Visualization-project/blob/main/img/DB_EER_diagram.PNG)
 
 
 3) VISUALIZACIÓN:
-Se pretende ofrecer al usuario un análisis visual del partido modelo:
+Creación de libro de trabajo en Tableau. Se pretende ofrecer al usuario un análisis visual del partido modelo:
 
 - PORTADA con datos genéricos del torneo y sus participantes.
 
