@@ -72,6 +72,6 @@ Se pretende ofrecer al usuario un análisis visual del partido modelo:
 En ellos se puede filtrar por jugador y tipo de evento para poder realizar análisis individual
 
     
-Si quieres ver este libro de trabajo en Tableau... [Tableau](https://public.tableau.com/app/profile/david.tejedor/viz/w5-Viz-Project-World_cup_2022/Historia1?publish=yes)
+Link to Tableau Dashboard: [FIFA WORLD CUP 2022](https://public.tableau.com/app/profile/david.tejedor/viz/w5-Viz-Project-World_cup_2022/Historia1?publish=yes)
 
 
