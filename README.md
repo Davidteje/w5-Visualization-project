@@ -21,7 +21,7 @@ Proceso ETL de datos del mundial de fútbol que comienza el 20/11/2022:
 2) CREACIÓN DE DB:
 Tras la limpieza y preparación de tablas, creación de DB en Python-SQL:
 
-Foto
+![Image text](https://github.com/Davidteje/w5-Visualization-project/blob/main/img/DB_EER_diagram.PNG)
 
 
 3) VISUALIZACIÓN:
@@ -29,10 +29,14 @@ Se pretende ofrecer al usuario un análisis visual del partido modelo:
 
 - PORTADA con datos genéricos del torneo y sus participantes.
 
+![Image text](https://github.com/Davidteje/w5-Visualization-project/blob/main/img/Portada.PNG)
+
 - 5 DASHBOARDS que muestran los datos más relevantes de las diferentes categorías de juego en un partido.
     - In possession
     - Out of possession
     - Possession Contest
+    
+    
     
     - Se incluye una tabla de los eventos de distribución de juego que permiten un análisis detallado de los mismos mediante los filtros facilitados.
     
